@@ -4,6 +4,16 @@
   # Pulse Flow
 </div>
 
+> Приложение для Android TV и приставок.  
+> Телеканалы, фильмы и сериалы в одном удобном интерфейсе.
+
+<br>
+
+![Android](https://img.shields.io/badge/Android-8.0%2B-green?logo=android)
+![Package](https://img.shields.io/badge/Package-com.pulseflow.tv-blue)
+![Русский интерфейс](https://img.shields.io/badge/Интерфейс-Русский-success)
+![Архитектура](https://img.shields.io/badge/Архитектура-universal-lightgrey)
+
 ### ТВ
 <img src="screenshots/screenshots%201.jpg" width="100%" />
 
@@ -26,16 +36,6 @@
 <img src="screenshots/screenshots%208.jpg" width="100%" />
 
 <img src="screenshots/screenshots%209.jpg" width="100%" />
-
----
-
-> Приложение для Android TV и приставок.  
-> Телеканалы, фильмы и сериалы в одном удобном интерфейсе.
-
-[<image-card alt="Android" src="https://img.shields.io/badge/Android-8.0%2B-green?logo=android" ></image-card>](https://developer.android.com/)
-[<image-card alt="Package" src="https://img.shields.io/badge/Package-com.pulseflow.tv-blue" ></image-card>]()
-[<image-card alt="Interface" src="https://img.shields.io/badge/Интерфейс-Русский-success" ></image-card>]()
-[<image-card alt="Arch" src="https://img.shields.io/badge/Архитектура-universal-lightgrey" ></image-card>]()
 
 ---
 
